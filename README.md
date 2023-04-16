@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
+### Hi there 👋
+My name is Pooja Jadhav
 I'm currently pursuing BCA(sci)
 
 
